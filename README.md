@@ -5,7 +5,7 @@ Bảng dưới đây được chuẩn hóa từ nội dung đầu vào: bỏ ghi
 | ID | Tên | Tên tắt | Tổ chức đánh giá | Hạng | Deadline nộp abstract | Deadline nộp full bài | Địa điểm tổ chức | Thời gian tổ chức | Link |
 | ---: | --- | --- | --- | :---: | --- | --- | --- | --- | --- |
 | 11 | ACM Conference on Applications, Technologies, Architectures, and Protocols for Computer Communication | SIGCOMM | ICORE2026 | A* | 2026-01-30 | 2026-02-06 | Denver, Colorado, USA | 2026-08-17 to 2026-08-21 | [link](https://conferences.sigcomm.org/sigcomm/2026/) |
-| 12 | ACM Conference on Computer and Communications Security | CCS | ICORE2026 | A* | 22 April 2026 | 29 April 2026 | The World Forum, The Hague, Netherlands | 15-19 November 2026 | [link](https://www.sigsac.org/ccs/CCS2026/) |
+| 12 | ~~ ACM Conference on Computer and Communications Security | CCS | ICORE2026 | A* | 22 April 2026 | 29 April 2026 | The World Forum, The Hague, Netherlands | 15-19 November 2026 ~~| [link](https://www.sigsac.org/ccs/CCS2026/) |
 | 14 | ACM Conference on Economics and Computation | EC | ICORE2026 | A* | February 2, 2026 | February 9, 2026 | Rome, Italy | July 06-10, 2026 | [link](https://ec26.sigecom.org/) |
 | 26 | ACM International Conference on Knowledge Discovery and Data Mining | KDD | ICORE2026 | A* | Feb 1, 2026 | Feb 8, 2026 | Jeju, Korea (International Convention Center Jeju) | August 9-13, 2026 | [link](https://kdd2026.kdd.org/) |
 | 27 | ACM International Conference on Mobile Computing and Networking | MOBICOM | ICORE2026 | A* | — | 2026-03-14 | Austin, TX, USA | 2026-10-26 | [link](https://sigmobile.org/mobicom/2026/index.html) |
